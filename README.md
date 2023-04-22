@@ -9,8 +9,6 @@
 
 <br>
 
-### 🛠 &nbsp;Tech Stack
-
 
 <br clear="both">
 
