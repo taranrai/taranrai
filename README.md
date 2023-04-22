@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br />
-<h1 align="center"> Taran Rai - @promptsurgeon </h1>
+<h1 align="center"> Taran Rai </h1>
 
 ### 👨‍💻 &nbsp;About Me
 
