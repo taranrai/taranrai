@@ -4,10 +4,12 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-🎓 &nbsp;I have a PhD in Artificial Intelligence in Digital Pathology\
-🌱 &nbsp;I'm a Data Scientist / AI/ML Engineer \
+🎓 &nbsp;I have a PhD in Artificial Intelligence in Digital Pathology 💻🔬\
+💻 &nbsp;I'm a Data Scientist (AI/ML Engineer) \
 
 <br>
+
+I've just started my public GitHub again. I'll be adding past & future AI/ML projects. I'm open to and encourage collaboration!
 
 
 <br clear="both">
