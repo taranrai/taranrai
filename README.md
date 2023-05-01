@@ -42,7 +42,7 @@ I've just started my public GitHub again. I'll be adding past & future AI/ML pro
   <a href="https://www.linkedin.com/in/taranrai/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[https://www.linkedin.com/in/taranrai/](https://scholar.google.co.uk/citations?user=-sK0WvQAAAAJ&hl=en)" target="_blank">
+  <a href="https://scholar.google.co.uk/citations?user=-sK0WvQAAAAJ&hl=en" target="_blank">
     <img src="https://raw.githubusercontent.com/taranrai/taranrai/assets/Google_Scholar_logo.png" width="52" height="40" alt="google scholar logo"  />
   </a>
 </div>
