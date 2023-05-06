@@ -1,11 +1,11 @@
 ### Hello world 👋
 <br />
-<h1 align="center"> Taran Rai </h1>
+<h1 align="center"> Taran Rai ⚡🤖💻🔬🧠</h1>
 
 ### 👨‍💻 &nbsp;About Me
 
 🎓 &nbsp;I have a PhD in Artificial Intelligence in Digital Pathology 💻🔬\
-💻 &nbsp;I'm a Data Scientist (AI/ML Engineer) 
+💻 &nbsp;I'm a Data Scientist | AI/ML Engineer
 
 <br>
 
