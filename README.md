@@ -1,15 +1,14 @@
-### Hello world 👋
+### Hello world, I'm Taran Rai 👋
 <br />
-<h1 align="center"> Taran Rai ⚡</h1>
 
 ### 👨‍💻 &nbsp;About Me
 
-🎓 &nbsp;I have a PhD in Artificial Intelligence in Digital Pathology 🤖💻🔬\
-💻 &nbsp;I'm a Data Scientist | AI/ML Engineer
+🎓 &nbsp;I have a PhD in AI/ML in Digital Pathology 🤖💻🔬\
+💻 &nbsp;I work on Data Science and AI/ML research projects 
 
 <br>
 
-I've just started my public GitHub again. I'll be adding past & future AI/ML projects. I'm open to and encourage collaboration!
+Welcome to my public GitHub profile. I'm open to collaborations so feel free to connect.
 
 
 <br clear="both">
