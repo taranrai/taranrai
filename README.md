@@ -5,11 +5,11 @@
 
 #### 🧑‍💻 About Me
 
-I'm an AI/ML Engineer committed to enhancing various domains, including healthcare diagnostics, through the strategic application of artificial intelligence. My approach is human-centric, aimed at leveraging technology for societal benefits across multiple areas.
+I'm an AI/ML Engineer committed to enhancing various domains, including healthcare diagnostics, through the strategic application of artificial intelligence. My approach is human-centric.
 
 - 🎓 **Education:** PhD in AI/ML focused on Digital Pathology.
 - 🛠️ **Expertise:** Data Science, AI/ML Engineering.
-- 🤔 **Interests:** Healthcare & Medicine, Finance, AgriTech.
+- 🤔 **Interests:** AI agents, Healthcare & Medicine, Finance, AgriTech.
 
 
 #### 🌐 Connect with Me
@@ -17,6 +17,7 @@ I'm an AI/ML Engineer committed to enhancing various domains, including healthca
 - **LinkedIn:** [Taran Rai](https://www.linkedin.com/in/taranrai)
 - **X:** [@taranraix](https://www.x.com/taranraix)
 - **Threads:** [@taranr.ai](https://www.threads.net/@taranr.ai)
+- **Personal Website:** [www.taranr.ai](https://www.taranr.ai)
 - **Blog:** [KeepingHumansInTheLoop.com](https://www.keepinghumansintheloop.com)
 - **Google Scholar** [Taran Rai Google Scholar](https://scholar.google.co.uk/citations?user=-sK0WvQAAAAJ&hl=en)
 <br>
