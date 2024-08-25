@@ -9,7 +9,7 @@ I'm an AI/ML Engineer committed to enhancing various domains, including healthca
 
 - 🎓 **Education:** PhD in AI/ML focused on Digital Pathology, MSc in Data Science, Bachelors in Economics and Finance
 - 🛠️ **Expertise:** Data Science, AI/ML Engineering.
-- 🤔 **Interests:** AI agents, Healthcare & Medicine, Finance, AgriTech.
+- 🤔 **Interests:** AI/ML in Veterinary and Human Healthcare & Medicine, Finance, AgriTech, "AI" Agents.
 
 
 #### 🌐 Connect with Me
