@@ -16,7 +16,7 @@ I'm an AI/ML Engineer committed to enhancing various domains, including healthca
 
 - **LinkedIn:** [Taran Rai](https://www.linkedin.com/in/taranrai)
 - **X:** [@taranraix](https://www.x.com/taranraix)
-- **Personal Website:** [www.taranr.ai](https://www.taranrai.me)
+- **Personal Website:** [www.taranrai.me](https://www.taranrai.me)
 - **Blog:** [KeepingHumansInTheLoop.com](https://www.keepinghumansintheloop.com)
 - **Google Scholar** [Taran Rai Google Scholar](https://scholar.google.co.uk/citations?user=-sK0WvQAAAAJ&hl=en)
 <br>
