@@ -5,11 +5,11 @@
 
 #### 🧑‍💻 About Me
 
-I'm an AI/ML Engineer committed to enhancing various domains, including healthcare diagnostics, through the strategic application of artificial intelligence. My approach is human-centric.
+I do data science and AI/ML things in various domains, including but not limited to digital pathology, business use-cases and finance. My ethos is human-centric.
 
-- 🎓 **Education:** PhD in AI/ML focused on Digital Pathology, MSc in Data Science, Bachelors in Economics and Finance
-- 🛠️ **Expertise:** Data Science, AI/ML Engineering.
-- 🤔 **Interests:** AI/ML in Veterinary and Human Healthcare & Medicine, Finance, AgriTech and more
+- 🎓 **Education:** PhD in AI/ML for Digital Pathology, MSc in Data Science, Bachelors in Economics and Finance
+- 🛠️ **Expertise:** Data Science, AI/ML Engineering, AI/ML in Digital Pathology, LLM applications in business
+- 🤔 **Interests:** AI/ML in Healthcare (Veterinary and Human), Finance, AgriTech and more
 
 
 #### 🌐 Connect with Me
