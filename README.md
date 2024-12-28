@@ -11,6 +11,7 @@ I do data science and AI/ML things in various domains, including but not limited
 - 🛠️ **Expertise:** Data Science, AI/ML Engineering, AI/ML in Digital Pathology, LLM applications in business
 - 🤔 **Interests:** AI/ML in Healthcare (Veterinary and Human), Finance, AgriTech and more
 
+This account isn't public, and most of my projects are either private or under my pseudo profile. Feel free to contact me for more information.
 
 #### 🌐 Connect with Me
 
