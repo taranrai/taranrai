@@ -5,7 +5,7 @@
 
 #### 🧑‍💻 About Me
 
-I do data science and AI/ML things in various domains.
+I do data science and AI/ML things.
 
 - 🎓 **Education:** PhD in AI/ML for Digital Pathology, MSc in Data Science, Bachelors in Economics and Finance
 - 🛠️ **Expertise:** Data Science, AI/ML Engineering, AI/ML in Digital Pathology, LLM applications in business
