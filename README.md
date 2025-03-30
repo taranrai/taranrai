@@ -5,13 +5,13 @@
 
 #### 🧑‍💻 About Me
 
-I do data science and AI/ML things in various domains, including but not limited to digital pathology, business use-cases and finance. My ethos is human-centric.
+I do data science and AI/ML things in various domains.
 
 - 🎓 **Education:** PhD in AI/ML for Digital Pathology, MSc in Data Science, Bachelors in Economics and Finance
 - 🛠️ **Expertise:** Data Science, AI/ML Engineering, AI/ML in Digital Pathology, LLM applications in business
 - 🤔 **Interests:** AI/ML in Healthcare (Veterinary and Human), Finance, AgriTech and more
 
-This account isn't public, and most of my projects are either private or under my pseudo profile. Feel free to contact me for more information.
+Most of my projects are private. Feel free to contact me for more information.
 
 #### 🌐 Connect with Me
 
