@@ -8,8 +8,7 @@
 I do data science and AI/ML things.
 
 - 🎓 **Education:** PhD in AI/ML for Digital Pathology, MSc in Data Science, Bachelors in Economics and Finance
-- 🛠️ **Expertise:** Data Science, AI/ML Engineering, AI/ML in Digital Pathology, LLM applications in business
-- 🤔 **Interests:** AI/ML in Healthcare (Veterinary and Human), Finance, AgriTech and more
+- 🤔 **Interests:** Data Science, AI/ML Engineering, AI/ML in Digital Pathology, LLM applications in business
 
 Most of my projects are private. Feel free to contact me for more information.
 
