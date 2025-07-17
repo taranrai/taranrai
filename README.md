@@ -1,4 +1,4 @@
-### Hello world, I'm Taran Rai 👋
+### I'm Taran Singh Rai 👋
 <br />
 
 ---
